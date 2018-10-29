@@ -1,1 +1,1 @@
-# shopify-public-app
+# Shopify Public App
