@@ -1,4 +1,4 @@
 <?php
 
-	define('SHOPIFY_APP_API_KEY', 'e7cdc80d603d8f8694be0c2094e53454');
-	define('SHOPIFY_APP_SHARED_SECRET', 'bd5a4317ec7f9eb3ffa208cdf0f15419');
+	define('SHOPIFY_APP_API_KEY', 'xxxxxxxxxx');
+	define('SHOPIFY_APP_SHARED_SECRET', 'xxxxxxxxxx');
